@@ -2,7 +2,7 @@
 
 A Tic-Tac-Toe game built in object-oriented style, with features such as 5x5 and 9x9 boards and multiplayer function. The Graphical User Interface is rendered entirely within the console.
 
-The entire source code is included in the `oo_ttt_bonus_multiplayer.rb` file. This documentation serves as a quick overview of how the game works, as well as how classes are organized.
+This documentation serves as a quick overview of how the game works, as well as how classes are organized.
 
 ## Usage
 
