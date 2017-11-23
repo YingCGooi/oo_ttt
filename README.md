@@ -1,6 +1,6 @@
 # Tic Tac Toe Expansion
 
-A Tic-Tac-Toe game built in object-oriented style, with features such as 5x5 and 9x9 boards and multiplayer function. The Graphical User Interface is rendered entirely within the console.
+A Tic-Tac-Toe game built in object-oriented style, with features such as 5x5 and 9x9 boards and multiplayer function. The Graphical User Interface is rendered entirely within the console. An AI is implemented to reasonably beat a human player.
 
 This documentation serves as a quick overview of how the game works, as well as how classes are organized.
 
